@@ -1,0 +1,345 @@
+body{
+    font-size: 14px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+    line-height: 22px;
+    margin: 0px auto;
+}
+.poll{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items: center;
+    height: 1188px;
+}
+a{
+    text-decoration: none;
+}
+.jik1 p{
+    margin: 0px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 208px;
+    height: 66px;
+}
+div.jik{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:space-between;
+    align-content:space-between;
+    width: 1140px;
+    height: 585px;
+    
+}
+div.jik2{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:space-between;
+    align-content:space-between;
+    width: 1140px;
+    height: 455px; 
+    padding: 30px 0px;
+}
+.bgg{
+    width: 1140px;
+    height: 455px; 
+    background-color: #f5f5f5;
+    position: absolute;
+    bottom: 0px;
+}
+body a.cvb{
+    color: #20BD9A;
+    border-bottom: 1px solid #20BD9A;
+}
+div.weq,div.weq1,div .wap,div.weq2,div.weq3{
+    display: inline-block;
+}
+span{
+    margin-left: 10px;
+}
+.www{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+ul{
+    margin: 0px;
+    padding:0px;
+    float: right;
+}
+li{
+    float: left;
+    font-size: 14px;
+    list-style: none;
+    margin-right: 16px;
+}
+li.asa{
+    margin: 0px;
+}
+.wap{
+    font-size: 36px;
+    width: 1152px;
+}
+h4{
+    float: left;
+    margin:0;
+}
+.wap span{
+    font-size:12px;
+}
+.ds{ 
+    width: 560px;
+    height: 270px;
+    background: #FFFFFF;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.20);
+}
+.ds1{
+    width: 264px;
+    height: 184px;
+    background: #FFFFFF;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.20);
+}
+.weq{
+    width: 264px;
+    background: #FFFFFF;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.20);
+}
+.ds2{
+    height: 270px;
+}
+div.jik1{
+    width: 1152px;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    align-items:space-between;
+    align-content: space-between;
+    height: 400px;
+    
+}
+.ds4{
+    float: left;
+    width: 120px;
+    height: 120px;
+}
+.ds3{
+    
+    width: 364px;
+    height: 270px;
+}
+.e{
+    width: 208px;
+    height: 66px;
+    float: right;
+}
+.weq2{
+    width: 364px;
+    height: 270px;
+    background: #FFFFFF;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.20);
+}
+.wep3{
+    width: 364px;
+    height: 130px;
+    background: #FFFFFF;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.20);
+}
+.jik a{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #000000;
+    line-height: 22px;
+}
+.ert{
+    left: 0px;
+    bottom: 0px;
+    width: 560px;
+    height: 103px;
+    position: absolute;
+    opacity: 0.55;
+    background: #1C1F21; 
+}
+.ert1{  
+    left: 0px;
+    bottom: 0px;
+    width: 364px;
+    height: 104px;
+    position: absolute;
+    opacity: 0.55;
+    background: #1C1F21; 
+}
+.wefd{
+    position: relative;
+}
+.bg123{
+    width: 5000px;
+    display:flex;
+    justify-content: center;
+    align-items:flex-start;
+    align-content: center;
+    background-color:#f5f5f5;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.ef{
+    width: 1152px;
+}
+.ewr{
+    padding-bottom: 30px;
+}
+.ert a{
+    display: inline-block;
+    padding:30px;
+   font-family: PingFangSC-Regular;
+   font-size: 14px;
+   color: #FFFFFF;
+   line-height: 22px;
+}
+.ert span{
+    float: left;
+    padding-right: 50px;
+    width: 350px;
+}
+.ert1 a{
+    width: 330px;
+    display: inline-block;
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+   font-family: PingFangSC-Regular;
+   font-size: 14px;
+   color: #FFFFFF;
+   line-height: 22px;
+}
+.ert1 .we{
+    color: #36DFBA;
+    float: right;
+}
+.ert1 .we1{
+    float: right;
+}
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?m72dnv');
+  src:  url('fonts/icomoon.eot?m72dnv#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?m72dnv') format('truetype'),
+    url('fonts/icomoon.woff?m72dnv') format('woff'),
+    url('fonts/icomoon.svg?m72dnv#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-uniE900:before {
+  content: "\e900";
+}
+
+i{
+    font-size: 40px;
+}
+
+div.ex{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 22px;
+    width: 264px;
+    height: 270px;
+    background: linear-gradient(to bottom,#34E3BC,#15AF7A);
+}
+
+.eefrf ul,.eefrf li{
+    margin: 0px;
+    padding: 0px;
+}
+.eefrf li{
+    list-style: none;
+    float: right;
+}
+.eefrf p{
+    margin: 0px;
+}
+.eefrf .p1{
+    padding-top: 46px;
+}
+.eefrf li{
+    padding-right: 10px;
+}
+.eefrf ul{
+    width: 236px;
+    margin-top: 36px;
+    margin-right: 25px;
+}
+.eefrf .ion{
+    margin-top:28px;
+}
+
+div.ex1{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 22px;
+    width: 364px;
+    height: 270px;
+    background: linear-gradient(to bottom,#FF6374,#FF7368);
+}
+.eefrf1 ul,.eefrf1 li{
+    margin: 0px;
+    padding: 0px;
+}
+.eefrf1 li{
+    list-style: none;
+    float: right;
+}
+.eefrf1 p{
+    margin: 0px auto;
+}
+.eefrf1 .p1{
+    padding: 0px;
+    padding-top: 46px;
+    height: 20px;
+}
+.eefrf1 p{
+   margin-top: 2px;
+   
+}
+.jik1 .eefrf1 p{
+    height: 20px;
+}
+.eefrf1 li{
+    padding-right: 8px;
+}
+.eefrf1 ul{
+    width: 310px;
+    margin-top: 36px;
+    margin-right: 20px;
+}
+.eefrf1 .rree{
+    padding-right: 0px;
+}
+.eefrf1 .ion{
+    margin-top:28px;
+}
