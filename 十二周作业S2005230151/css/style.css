@@ -1,0 +1,541 @@
+.title1 {
+    margin: 0 auto;
+    width: 1188px;
+    height: 100px;
+}
+
+li {
+    display: flex;
+}
+
+li:hover {
+    color: #20BD9A;
+}
+.body1 {
+    width: 1188px;
+    height: 638px;
+}
+.title-L {
+    margin: 0 auto;
+    padding-left: 0;
+    padding-top: 20px;
+    float: left;
+    width: 410px;
+    height: 55px;
+}
+
+.font1 {
+    float: left;
+    font-family: PingFangSC-Medium;
+    font-size: 36px;
+    text-align: justify;
+    line-height: 54px;
+    color: #000000;
+}
+
+.font2 {
+    padding-left: 10px;
+    padding-top: 28px;
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 18px;
+    color: #000000;
+}
+
+.title-R {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-right: 25px;
+    float: right;
+    width: 450px;
+    height: 25px;
+}
+
+.font3 {
+    float: right;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: rgba(0,0,0,0.85);
+    text-align: center;
+    line-height: 22px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+.body2 {
+    position: absolute;
+    flex-direction:column;
+    left: 368px;
+    width: 560px;
+    height: 600px;
+}
+
+.ph1 {
+    position: relative;
+    padding-left: 0;
+    float: left;
+    width: 560px;
+    height: 270px;
+    overflow: hidden;
+}
+img:hover {
+    transform: scale(1.2);
+}
+
+.fph1 {
+    position: absolute;
+    top: 168px;
+    width: 560px;
+    height: 103px;
+    background-color:rgba(44, 44, 44, 0.55);
+}
+.a1 {
+    position: absolute;
+    top: 19px;
+    left: 28px;
+    right: 26px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.a2 {
+    position: absolute;
+    top: 42px;
+    left: 28px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.ph2 {
+    float: left;
+    width: 264px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.fph2 {
+    position: absolute;
+    top: 461px;
+    width: 74px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.a3 {
+    position: absolute;
+    left: 20px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.a4 {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.a5 {
+    margin: 0 auto;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.ph3 {
+    float: left;
+    padding-left: 0;
+    margin: 15px 0 0 30px;
+    width: 264px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    overflow: hidden;
+}
+.fph3{
+    position: absolute;
+    top: 461px;
+    width: 74px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.a6 {
+    position: absolute;
+    left: 20px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.a7 {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.a8 {
+    margin: 0 auto;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.body3 {
+    position: absolute;
+    flex-direction:column;
+    right: 360px;
+    width: 590px;
+    height: 600px;
+}
+.ph4 {
+    float: left;
+    padding-left: 0;
+    margin:15px 0px 0px 0px;
+    width: 264px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    overflow: hidden;
+}
+.fph4 {
+    position: absolute;
+    top: 158px;
+    width: 74px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.a9 {
+    position: absolute;
+    left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.a10 {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.a11 {
+    margin: 0 auto;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.ph5 {
+    float: left;
+    padding-left: 0;
+    margin: 15px 0 0 30px;
+    width: 264px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    overflow: hidden;
+}
+.fph5 {
+    position: absolute;
+    top: 158px;
+    width: 74px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.a12 {
+    position: absolute;
+    left: 20px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.a13 {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.a14 {
+    margin: 0 auto;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.ph6 {
+    float: left;
+    margin: 32px 0 0 0;
+    width: 264px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.fph6 {
+    position: absolute;
+    top: 461px;
+    width: 74px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.a15 {
+    position: absolute;
+    left: 20px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.a16 {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.a17 {
+    margin: 0 auto;
+    padding-left: 15px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #1C1F21;
+}
+.ph7 {
+    float: right;
+    margin: 30px ;
+    width: 264px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.title2 {
+    margin: 0 auto;
+    width: 1188px;
+    height: 100px;
+}
+.title2-L {
+    margin: 0 auto;
+    padding-left: 0;
+    padding-top: 20px;
+    float: left;
+    width: 410px;
+    height: 55px;
+}
+.font4 {
+    float: left;
+    font-family: PingFangSC-Medium;
+    font-size: 36px;
+    text-align: justify;
+    line-height: 54px;
+    color: #000000;
+}
+
+.font5 {
+    padding-left: 10px;
+    padding-top: 28px;
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 18px;
+    color: #000000;
+}
+.title2-R {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-right: 25px;
+    float: right;
+    width: 450px;
+    height: 25px;
+}
+.font6 {
+    float: right;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: rgba(0,0,0,0.85);
+    text-align: center;
+    line-height: 22px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+.body5 {
+    position: absolute;
+    flex-direction:column;
+    left: 368px;
+    width: 364px;
+    height: 600px;
+}
+.ph8 {
+    position: relative;
+    padding-left: 0;
+    float: left;
+    width: 364px;
+    height: 270px;
+    overflow: hidden;
+}
+.fph8 {
+    position: absolute;
+    top: 168px;
+    width: 364px;
+    height: 103px;
+    background-color:rgba(44, 44, 44, 0.55);
+}
+.a18 {
+    width: 322px;
+    height: 44px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 20px ;
+}
+.a19 {
+    position: absolute;
+    top: 48px;
+    left: 22px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.a20 {
+    position: absolute;
+    top: 48px;
+    right: 58px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #36DFBA;
+}
+.a21 {
+    position: absolute;
+    top: 48px;
+    right: 26px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.ph9 {
+    float: left;
+    width: 364px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.a22 {
+    position: absolute;
+    width: 208px;
+    height: 66px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #000000;
+    left: 140px;
+    top: 334px;
+}
+.body6 {
+    position: absolute;
+    flex-direction:column;
+    left: 760px;
+    width: 364px;
+    height: 600px;
+}
+.ph10 {
+    float: left;
+    width: 364px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.a23 {
+    position: absolute;
+    width: 208px;
+    height: 66px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #000000;
+    left: 140px;
+    top: 30px;
+}
+.ph11 {
+    float: left;
+    width: 364px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.a24 {
+    position: absolute;
+    width: 208px;
+    height: 66px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #000000;
+    left: 140px;
+    top: 180px;
+}
+.ph12 {
+    float: left;
+    width: 364px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.a25 {
+    position: absolute;
+    width: 208px;
+    height: 66px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #000000;
+    left: 140px;
+    top: 350px;
+}
+.body7 {
+    position: absolute;
+    flex-direction:column;
+    right: 390px;
+    width: 364px;
+    height: 600px;
+}
+.ph13 {
+    float: left;
+    width: 364px;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
+.a26 {
+    position: absolute;
+    width: 208px;
+    height: 66px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #000000;
+    left: 140px;
+    top: 34px;
+}
+.ph14 {
+    float: right;
+    width: 364px;
+    height: 270px;
+    box-shadow: 0 4px 8px 0 #d8d8d8;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 0;
+    overflow: hidden;
+}
