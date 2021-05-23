@@ -1,0 +1,130 @@
+.div1{
+    height: 600px;
+    width: 1200px;
+    background: #F7F7F7;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.div1 img{
+    display: flex;
+}
+
+p{
+    font-size: 12px;
+    color: #000000;
+    text-align: justify;
+    line-height: 18px;
+}
+.datu{
+    position: relative;
+    display: flex;
+    height: 270px;
+    width: 560px;
+}
+.qqq{
+    position:absolute;
+    width: 560px;
+    height: 104px;
+    top:229px;
+    right: 677px;
+    background-color:rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 22px;
+}
+.header{
+    position: relative;
+    width: 264px;
+    height: 270px;
+    /*border: solid 1px wheat;
+    box-shadow: inset 5px 5px 20px #ccc;*/
+    box-shadow: inset 5px 5px 20px rgb(255, 253, 253),5px 5px 20px #000;
+}
+.green{
+  background-image: url(images/图6.png)
+}
+.div2{
+    height: 400px;
+    width: 1200px;
+    background: #F7F7F7;
+    display: flex;
+    flex-wrap: wrap;
+    align-content:space-around;
+    justify-content:space-between;
+    align-items: stretch;
+    flex-direction: column;
+}
+.zzz{
+    width :364px;
+}
+
+.aaa{
+    width:50%;
+}
+.abc{
+    font-size: 36px;
+    color: #000000;
+    text-align: justify;
+    line-height: 54px;
+}
+.xxx{
+    position:absolute;
+    width: 74px;
+    height: 44px;
+    top:140px;
+    opacity: 0.6;
+    background: #1C1F21;
+    color: #FFFFFF;
+  
+}
+.header1{
+    position: relative;
+    width: 264px;
+    height: 270px;
+    background-color: #34E3BC;
+}
+.header1 p{
+    list-style: none;
+    width: 48px;
+    height: 48px;
+    border: solid 5px #FFFFFF;
+    border-radius: 50%;
+    font-family: feather;
+    font-size: 40px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 48px;
+    margin-left: 110px;
+    margin-top: 110px;
+}
+.header1  span{
+    position:absolute;
+    float: left;
+    top:30px;
+    left:85px;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 22px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+span:hover{
+    cursor: pointer;
+}
+
+.zhy{
+    width: 364px;
+    height: 270px;
+    background-color: deeppink;
+}
+.abb{
+    width: 364px;
+    height: 270px;
+    background-color: dodgerblue;
+}
